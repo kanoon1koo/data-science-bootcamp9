@@ -11,5 +11,9 @@ I'm learning data science bootcam. There are 10 sprints in the program.
 
 ## Second part od the program
 - Building website
+- Essential Statistics
+- Machine Learning for Data Analyst
+- Dashboard with Looker Studio
+
 
 Contact: dhansita.sit@gmail.com
